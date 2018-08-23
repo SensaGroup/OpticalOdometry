@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name OpticalOdometry_Board-rescue)(type Legacy)(uri ${KIPRJMOD}/OpticalOdometry_Board-rescue.lib)(options "")(descr ""))
+  (lib (name adns-2610)(type Legacy)(uri ${KIPRJMOD}/adns-2610.lib)(options "")(descr ""))
+  (lib (name Conector)(type Legacy)(uri ${KIPRJMOD}/Conector.lib)(options "")(descr ""))
+  (lib (name Holder)(type Legacy)(uri ${KIPRJMOD}/Holder.lib)(options "")(descr ""))
+)
