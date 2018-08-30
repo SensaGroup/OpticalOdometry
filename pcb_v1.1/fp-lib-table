@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name pcb_v1)(type KiCad)(uri "$(KIPRJMOD)/pcb_v1.pretty")(options "")(descr ""))
-  (lib (name Conection)(type KiCad)(uri "$(KIPRJMOD)/Conection.pretty")(options "")(descr ""))
-)
