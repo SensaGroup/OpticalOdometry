@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name OpticalOdometry_Board-rescue)(type Legacy)(uri ${KIPRJMOD}/OpticalOdometry_Board-rescue.lib)(options "")(descr ""))
-)
