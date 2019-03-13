@@ -1,0 +1,9 @@
+Resistors:   https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERA-3AEB221V/P220DBCT-ND/1466036
+
+Big SMD capacitor: https://www.digikey.com/product-detail/en/panasonic-electronic-components/EEE-1EA100SR/PCE3894TR-ND/766061
+
+SMD Capacitor:  https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM21BR61E106KA73K/490-16824-1-ND/7595732
+
+Diodes: https://www.digikey.com/product-detail/en/panasonic-electronic-components/DA2J10400L/DA2J10400LCT-ND/2184710
+
+
